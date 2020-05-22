@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+- 📥 Special support for macOS installer apps #229
 - 🛠 Xcode 11.5 #273
 - ✨ New `purchase` command for purchasing free apps #264 (resolves #2, #145)  
   thanks, [@blochberger](https://github.com/blochberger)!
